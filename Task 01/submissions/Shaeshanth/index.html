@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My portfolia page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#about">About</a> 
+        <a href="#skills">Skills</a>     
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <header>
+        <img src="images\profile.jpg" alt="Shaeshanth Picture" class="profile-image">
+        <h1>P Shaeshanth</h1>
+        <p>Web devoloper from cse</p>
+
+    </header>
+    <main>
+        <section id="about">
+            <h2>About Me</h2>
+            <p>I am P Shaeshanth from cse.</p>
+
+            <details>
+                <summary>About me</summary>
+                <p>Inspiring devoloper/Engineer from Colombo.</p>
+            </details>
+
+            <details>
+                <summary>Education</summary>
+                <div >
+                    <p> <strong > University : </strong > University of Moratuwa </p>
+                    <p> <strong > Degree : </strong > B.Sc.Computer Science </p>
+                    <p> <strong > Semester : </strong > 2nd </p>
+                </div >
+            </details>
+
+            <details>
+                <summary>Achievements</summary>
+                <ul>
+                    <li>Award 1: Hackerank Gold medal for Python</li>
+                    <li>Award 2: Completed NVIDIA ML course</li>
+                </ul>
+            </details>
+
+        </section>
+        <section id="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+                <li>Python</li>
+            </ul>
+        </section>
+
+        <section id="projects">
+            <h2>Projects</h2>
+            <ul>
+                <li>Luminai AI study coach</li>
+                <li>Calculator</li>
+                <li>To do list</li>
+            </ul>
+
+
+            <article class="project-card">
+                <h3>Luminai AI</h3>
+                <p>An AI-powered study coach that helps students optimize their learning experience through personalized recommendations and interactive tools.</p>
+                <ul>
+                    <li>Python</li>
+                    <li>Gemini AI</li>
+                </ul>
+                <a href ="https://github.com/shaeshanth2004/Lumina" target =" _blank ">View Project</a>
+            </article>
+
+            <article class="project-card">
+                <h3>Calculator</h3>
+                <p>Normal Calculator</p>
+                <ul>
+                    <li>C++</li>
+                    <li>Gemini AI</li>
+                </ul>
+                <a href =" https://github.com/shaeshanth2004/Lumina " target =" _blank ">View Project</a>
+            </article>
+
+            <article class="project-card">
+                <h3>Todo list</h3>
+                <p>Plan you days with an AI calendar</p>
+                <ul>
+                    <li>Python</li>
+                    <li>Gemini AI</li>
+                </ul>
+                <a href ="https://github.com/shaeshanth2004/Lumina " target =" _blank ">View Project</a>
+            </article>
+        </section>
+        <section id="contact">
+                <h2>Contact Me</h2>
+                <form>
+                    <label for="name">Your Name:</label>
+                    <input type="text" id="name" name="name" required>
+                    
+                    <label for="email">Your Email:</label>
+                    <input type="email" id="email" name="email">
+                    
+                    <label for="message">Message:</label>
+                    <textarea id="message" name="message"></textarea>
+                    
+                    <button type="submit">Send</button>
+                </form>
+            </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 My Portfolio</p>
+    </footer>
+</body>
+</html>
