@@ -2,8 +2,8 @@
 
 > *"Your portfolio is your first impression in the tech world!"* 💼
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-12-19%2006%3A35%20UTC-blue)
-![Submissions](https://img.shields.io/badge/Submissions-4-green)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-12-19%2006%3A39%20UTC-blue)
+![Submissions](https://img.shields.io/badge/Submissions-5-green)
 
 ## 🎯 The Challenge
 Build a professional portfolio website showcasing your skills, projects, and background using semantic HTML and responsive CSS!
@@ -16,10 +16,10 @@ Build a professional portfolio website showcasing your skills, projects, and bac
 **vishwa** - 60/100
 
 ### 🥈 Second Place
-**Sachini_Gunasekara** - 38/100
+**Binuka** - 56/100
 
 ### 🥉 Third Place
-**suhas** - 18/100
+**Sachini_Gunasekara** - 38/100
 
 ---
 
@@ -28,9 +28,10 @@ Build a professional portfolio website showcasing your skills, projects, and bac
 | Rank | Student | Score | Grade | Title | Last Updated |
 |:----:|---------|:-----:|:-----:|-------|--------------|
 | 🥇 | **vishwa** | 60/100 | 📝 D | 👑 Portfolio Legend | 2025-12-19 06:33 UTC |
-| 🥈 | **Sachini_Gunasekara** | 38/100 | 🔨 F | 🥈 Design Master | 2025-12-19 06:35 UTC |
-| 🥉 | **suhas** | 18/100 | 🔨 F | 🥉 Rising Designer | 2025-12-19 06:26 UTC |
-| 4 | **Suhas_Dissa** | 6/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-18 19:28 UTC |
+| 🥈 | **Binuka** | 56/100 | 🔨 F | 🥈 Design Master | 2025-12-19 06:39 UTC |
+| 🥉 | **Sachini_Gunasekara** | 38/100 | 🔨 F | 🥉 Rising Designer | 2025-12-19 06:35 UTC |
+| 4 | **suhas** | 18/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-19 06:26 UTC |
+| 5 | **Suhas_Dissa** | 6/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-18 19:28 UTC |
 
 ---
 
@@ -48,6 +49,7 @@ Build a professional portfolio website showcasing your skills, projects, and bac
 
 ## 🚀 Recent Activity
 
+- **Binuka** updated their portfolio → 56/100 (2025-12-19 06:39 UTC)
 - **Sachini_Gunasekara** updated their portfolio → 38/100 (2025-12-19 06:35 UTC)
 - **vishwa** updated their portfolio → 60/100 (2025-12-19 06:33 UTC)
 - **suhas** updated their portfolio → 18/100 (2025-12-19 06:26 UTC)

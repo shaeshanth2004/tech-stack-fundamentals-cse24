@@ -104,5 +104,26 @@
     "grade": "F",
     "last_updated": "2025-12-19 06:35 UTC",
     "submission_count": 1
+  },
+  "Binuka": {
+    "student": "Binuka",
+    "file_structure": 10,
+    "semantic_html": 17,
+    "functionality": 23,
+    "design": 2,
+    "responsive": 4,
+    "issues": [
+      "\u26a0\ufe0f No <article> tags for projects",
+      "\u26a0\ufe0f Minimal color styling",
+      "\u26a0\ufe0f No grid/flex layout",
+      "\u26a0\ufe0f No hover effects",
+      "\u26a0\ufe0f Missing alt text on images",
+      "\u274c No media queries - not responsive",
+      "\u26a0\ufe0f May use fixed pixel widths"
+    ],
+    "total": 56,
+    "grade": "F",
+    "last_updated": "2025-12-19 06:39 UTC",
+    "submission_count": 1
   }
 }
